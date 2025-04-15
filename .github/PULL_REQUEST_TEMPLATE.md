@@ -1,24 +1,36 @@
 ## Description
+<!-- Provide a brief summary of the changes in this PR -->
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
+## Related Issue
+<!-- Link to the related issue(s) -->
+Fixes #
 
-## Type of change
-
+## Type of Change
+<!-- Mark with an 'x' all that apply -->
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] Documentation update
+- [ ] Code refactoring
+- [ ] Build/CI pipeline changes
+- [ ] Other (please describe):
 
 ## How Has This Been Tested?
+<!-- Describe the tests you ran to verify your changes -->
+- [ ] Unit tests
+- [ ] Integration tests
+- [ ] Manual tests
+- [ ] Other (please describe):
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce.
-
-## Checklist:
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
+## Checklist
+<!-- Mark with an 'x' all that apply -->
+- [ ] My code follows the code style of this project
+- [ ] I have updated the documentation accordingly
+- [ ] I have added tests to cover my changes
+- [ ] All new and existing tests passed
 - [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
+- [ ] I have checked for potential accessibility issues
+- [ ] I have verified my changes in different browsers (if applicable)
+
+## Screenshots (if applicable)
+<!-- Add screenshots to help explain your changes -->

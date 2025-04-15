@@ -1,21 +1,14 @@
-# pausatf-docs
+# PAUSATF Documentation
 
-PAUSATF documentation repository
+This repository contains comprehensive documentation for the PAUSATF project.
 
-## Overview
+## Structure
 
-This repository is part of the PAUSATF project infrastructure. It is designed to handle docs functionality.
-
-## Configuration
-
-### Required Environment Variables
-
-- `GITHUB_TOKEN`: GitHub personal access token with appropriate permissions
-- `PAUSATF_CONFIG`: Path to the configuration file
-
-## Usage
-
-[Add specific usage instructions here]
+- [Infrastructure](infrastructure/): Documentation for the infrastructure
+- [Website](website/): Documentation for the website
+- [Backup](backup/): Documentation for the backup system
+- [Security](security/): Documentation for security
+- [Legacy](legacy/): Documentation for legacy content
 
 ## Contributing
 

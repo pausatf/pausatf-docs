@@ -1,14 +1,27 @@
-# Contributing Guidelines
+# Contributing to PAUSATF
 
-Thank you for your interest in contributing to this project!
+Thank you for volunteering! Here's how to get started:
 
-## Code of Conduct
+## Development Workflow
+1. **Fork the repository**
+2. **Clone your fork locally**
+   ```
+   git clone https://github.com/YOUR-USERNAME/REPOSITORY.git
+   ```
+3. **Create a branch for your changes**
+   ```
+   git checkout -b feature/your-feature-name
+   ```
+4. **Make your changes**
+5. **Test your changes locally**
+6. **Commit and push your changes**
+7. **Create a pull request**
 
-Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
+## Local Development
+- Install WordPress locally using [Local](https://localwp.com/)
+- Import the database snapshot from content-assets/backups/latest.sql
+- Connect your local site to the GitHub repository
 
-## Pull Request Process
-
-1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
-2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations, and container parameters.
-3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent. The versioning scheme we use is [SemVer](http://semver.org/).
-4. You may merge the Pull Request once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you.
+## Getting Help
+- Tag @maintainers in issues or pull requests
+- Join our Slack channel for quick questions
